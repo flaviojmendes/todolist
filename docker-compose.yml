@@ -11,6 +11,8 @@ services:
       depends_on:
         - db
       image: todolist:latest
+      volumes:
+        - "./todolistapp:/app/"
       links:
         - db
       ports:
