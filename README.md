@@ -1,5 +1,5 @@
-### Board
-
+### Todo List
+A Simple TODO List using Spring Boot, Spring Data and Mongo DB.
 
 
 ##### How to start environment
