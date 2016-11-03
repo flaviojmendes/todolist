@@ -19,8 +19,8 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="springSample_main" target="1.8" />
-      <module name="springSample_test" target="1.8" />
+      <module name="todolistapp_main" target="1.8" />
+      <module name="todolistapp_test" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
